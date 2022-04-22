@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## 🏆 My Github Stats:
-[![BoBoBaSs84's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoBoBaSs84)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoBoBaSs84&show_icons=true&theme=tokyonight&count_private=true]
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoBaSs84&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoBaSs84&theme=tokyonight&count_private=true)
