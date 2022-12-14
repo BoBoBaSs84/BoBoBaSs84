@@ -12,8 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 My Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoBoBaSs84&show_icons=true&theme=dark&count_private=true&show_icons=true)
-</br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BoBoBaSs84&theme=dark)](https://git.io/streak-stats)
-</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BoBoBaSs84&theme=dark)](https://git.io/streak-stats)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoBaSs84&theme=dark&count_private=true)
-</br>
