@@ -1,0 +1,71 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2023-02-09T09:28:19.597-00:00",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudio.2019.BuildTools"
+                },
+                {
+                    "PackageIdentifier": "Git.Git"
+                },
+                {
+                    "PackageIdentifier": "GitHub.cli"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+                },
+                {
+                    "PackageIdentifier": "Postman.Postman"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudio.2022.Professional"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudio.2017.BuildTools"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.SQLServer.2016.Developer"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.SQLServerManagementStudio"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.SDK.6"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.SDK.7"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "OpenJS.NodeJS.LTS"
+                },
+                {
+                    "PackageIdentifier": "Yarn.Yarn"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PowerShell"
+                },
+                {
+                    "PackageIdentifier": "LINQPad.LINQPad.7"
+                },
+                {
+                    "PackageIdentifier": "Telerik.Fiddler.Classic"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ],
+    "WinGetVersion": "1.4.10173"
+}
