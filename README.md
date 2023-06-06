@@ -1,4 +1,7 @@
-🔭 I’m currently working at Siemens<br>👯 I’m looking to collaborate on various projects and learn everyday<br>⚡ Fact: I'm quite a bass player.
+🔭 I’m currently working at Siemens<br>
+👯 I’m looking to collaborate on various projects and learn everyday<br>
+⚡ Fact: I'm quite a bass player.<br>
+💩 This is poo.<br>
 
 <!---
 BoBoBaSs84/BoBoBaSs84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
