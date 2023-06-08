@@ -1,6 +1,6 @@
 🔭 I’m currently working at Siemens<br>
 👯 I’m looking to collaborate on various projects and learn everyday<br>
-⚡ Fact: I'm quite a bass player.<br>
+⚡ Fact: I'm quite a bass player and i love to play.<br>
 💩 This is poo.<br>
 
 <!---
