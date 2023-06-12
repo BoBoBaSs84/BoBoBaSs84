@@ -2,6 +2,7 @@
 👯 I’m looking to collaborate on various projects and learn everyday<br>
 ⚡ Fact: I'm quite a bass player and i love to play.<br>
 💩 This is poo.<br>
+🎸 This is not a bass guitar.<br>
 
 <!---
 BoBoBaSs84/BoBoBaSs84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
