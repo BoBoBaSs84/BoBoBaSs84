@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/robert-peter-meyer)
 
-## 💻 Tech Stack:
+## 💻 Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.Net&logoColor=white)
 ![Nuget](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=Nuget)
