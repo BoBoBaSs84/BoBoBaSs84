@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 ⚡ Fact: I'm quite a bass player and i love to play.<br>
 💩 Fact: This is poo.<br>
 🎸 Fact: This is not a bass guitar.<br>
+🎮 Fact: I'm totally into gaming and moding.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/robert-peter-meyer)
