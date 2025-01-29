@@ -5,15 +5,17 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👨‍💻 Me:
 
-🔭 I’m currently working at Siemens.<br>
-👯 I’m looking to collaborate on various projects and learn everyday.<br>
+💼 I’m currently working at Siemens.<br>
+🤝🏼 I’m looking to collaborate on various projects and learn everyday.<br>
 ⚡ Fact: I'm quite a bass player and i love to play.<br>
 💩 Fact: This is poo.<br>
 🎸 Fact: This is not a bass guitar.<br>
-🎮 Fact: I'm totally into gaming and moding.<br>
+🎮 Fact: I'm totally into gaming and modding.<br>
+💭 Fact: The fact is that the greatest crimes are caused by excess and not by necessity.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/robert-peter-meyer)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1132312925428793375)
 
 ## 💻 Stack:
 [![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=dotnet&logoColor=fff)](#)
