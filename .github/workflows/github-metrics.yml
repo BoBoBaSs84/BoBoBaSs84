@@ -37,7 +37,16 @@ jobs:
           plugin_notable_repositories: yes
 
           # Lines of code changed
-          plugin_lines: yes
+          plugin_lines: no
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+
+          # Achievements
+          plugin_achievements: yes
+
+          # Comment reactions
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+          
