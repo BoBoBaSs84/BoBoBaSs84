@@ -3,6 +3,7 @@ BoBoBaSs84/BoBoBaSs84 is a ✨ special ✨ repository because its `README.md` (t
 
 You can click the Preview link to take a look at your changes.
 --->
+
 ## 👨‍💻 Me:
 
 💼 I’m currently working at Siemens.<br>
@@ -14,10 +15,12 @@ You can click the Preview link to take a look at your changes.
 💭 Fact: The fact is that the greatest crimes are caused by excess and not by necessity.<br>
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/robert-peter-meyer)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1132312925428793375)
 
 ## 💻 Stack:
+
 [![.NETFramework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=dotnet&logoColor=fff)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)](#)
@@ -78,7 +81,9 @@ You can click the Preview link to take a look at your changes.
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 ## 🏆 Metrics:
+
 [![BoBoBaSs84's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoBoBaSs84&show_icons=true&theme=transparent&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/BoBoBaSs84/BoBoBaSs84)
 
 ## 💬 Languages:
+
 [![BoBoBaSs84's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoBaSs84&langs_count=8&theme=transparent)](https://github.com/BoBoBaSs84/BoBoBaSs84)
