@@ -87,3 +87,7 @@ You can click the Preview link to take a look at your changes.
 ## 💬 Languages:
 
 [![BoBoBaSs84's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoBaSs84&langs_count=8&theme=transparent)](https://github.com/BoBoBaSs84/BoBoBaSs84)
+
+## 🏃‍♂️ Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BoBoBaSs84&theme=transparent)](https://github.com/BoBoBaSs84/BoBoBaSs84)
