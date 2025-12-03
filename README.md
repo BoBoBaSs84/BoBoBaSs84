@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
-## 🏆 Metrics:
+## 📊 Stats:
 
 [![BoBoBaSs84's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoBoBaSs84&show_icons=true&theme=transparent&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/BoBoBaSs84/BoBoBaSs84)
 
@@ -91,3 +91,7 @@ You can click the Preview link to take a look at your changes.
 ## 🏃‍♂️ Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BoBoBaSs84&theme=transparent)](https://github.com/BoBoBaSs84/BoBoBaSs84)
+
+## 🏆 Trophys
+
+[![Trophys](https://github-profile-trophy.vercel.app/?username=BoBoBaSs84&theme=onedark&no-bg=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/BoBoBaSs84/BoBoBaSs84)
