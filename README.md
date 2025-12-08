@@ -90,8 +90,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏃‍♂️ Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BoBoBaSs84&theme=transparent)](https://github.com/BoBoBaSs84/BoBoBaSs84)
+[![GitHub Streak](./images/streak.svg)](https://github.com/BoBoBaSs84/BoBoBaSs84)
 
 ## 🏆 Trophys
 
-[![Trophys](https://github-profile-trophy.vercel.app/?username=BoBoBaSs84&theme=onedark&no-bg=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/BoBoBaSs84/BoBoBaSs84)
+[![Trophys](./images/trophys.svg)](https://github.com/BoBoBaSs84/BoBoBaSs84)
