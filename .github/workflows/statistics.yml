@@ -10,16 +10,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout this repository
+      - name: Checkout the private repository
         uses: actions/checkout@v4
 
-      - name: Checkout the other repository
+      - name: Checkout the public repository
         uses: actions/checkout@v4
         with:
           repository: BoBoBaSs84/github-stats
           token: ${{ secrets.REPOSITORIES_TOKEN }}
-          path: private-repo
+          path: .private-repo
 
       - name: Copy those files
         run: |
-          cp private-repo/generated/*.svg ./images/
+          cp .private-repo/generated/*.svg ./images/
+
+      - name: Clean up the private repository
+        run: |
+          rm -rf .private-repo
+
+      - name: Commit the changes to the public repository
+        run: |
+          git config --global user.name "BoBoBaSs84"
+          git config --global user.email "73112377+BoBoBaSs84@users.noreply.github.com"
+          git add .
+          git commit -m "chore: updated images files"
+          git push
