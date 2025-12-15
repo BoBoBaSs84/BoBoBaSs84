@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "BoBoBaSs84"
           git config --global user.email "73112377+BoBoBaSs84@users.noreply.github.com"
           git add .
-          git commit -m "chore: updated images files"
+          git commit -m "chore: updated images files" -m "Co-Authored-By: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push
