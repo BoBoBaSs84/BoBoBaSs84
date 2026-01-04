@@ -28,13 +28,13 @@ jobs:
         run: |
           rm -rf .private-repo
 
-      - name: Download profile trophies
-        run: |
-          wget -O - --output-document=./images/trophys.svg "https://github-profile-trophy.vercel.app/?username=BoBoBaSs84&theme=onedark&no-bg=true&rank=SSS,SS,S,AAA,AA,A"
+      # - name: Download profile trophies
+      #   run: |
+      #     wget -O - --output-document=./images/trophys.svg "https://github-profile-trophy.vercel.app/?username=BoBoBaSs84&theme=onedark&no-bg=true&rank=SSS,SS,S,AAA,AA,A"
       
-      - name: Download current commit streak
-        run: |
-          wget -O - --output-document=./images/streak.svg "https://streak-stats.demolab.com/?user=BoBoBaSs84&theme=transparent"
+      # - name: Download current commit streak
+      #   run: |
+      #     wget -O - --output-document=./images/streak.svg "https://streak-stats.demolab.com/?user=BoBoBaSs84&theme=transparent"
 
       - name: Commit the changes to the public repository
         run: |
