@@ -6,13 +6,15 @@ You can click the Preview link to take a look at your changes.
 
 ## 👨‍💻 Me:
 
-💼 I’m currently working at Siemens.<br>
-🤝🏼 I’m looking to collaborate on various projects and learn everyday.<br>
-⚡ Fact: I'm quite a bass player and i love to play.<br>
-💩 Fact: This is poo.<br>
-🎸 Fact: This is not a bass guitar.<br>
-🎮 Fact: I'm totally into gaming and modding.<br>
-💭 Fact: The fact is that the greatest crimes are caused by excess and not by necessity.<br>
+- 🔭 I’m currently working on so many things.
+- 🌱 I’m currently learning assembler.
+- 🤝🏼 I’m looking to collaborate on various projects and learn everyday.
+- 💬 Ask me about `sql` or `csharp`.
+- ⚡ Fact: I'm quite a bass player and i love to play.
+- 💩 Fact: This is poo.
+- 🎸 Fact: This is not a bass guitar.
+- 🎮 Fact: I'm totally into gaming and modding.
+- 💭 Fact: The fact is that the greatest crimes are caused by excess and not by necessity.
 
 ## 🌐 Socials:
 
