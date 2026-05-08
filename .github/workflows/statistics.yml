@@ -23,7 +23,7 @@ jobs:
 
       - name: Copy those files
         run: |
-          cp .private-repo/generated/*.svg ./images/
+          cp .private-repo/*.svg ./images/
 
       - name: Clean up the private repository
         run: |
