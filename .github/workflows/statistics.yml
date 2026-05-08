@@ -16,6 +16,7 @@ jobs:
       - name: Checkout the public repository
         uses: actions/checkout@v4
         with:
+          ref: generated
           repository: BoBoBaSs84/github-stats
           token: ${{ secrets.REPOSITORIES_TOKEN }}
           path: .private-repo
