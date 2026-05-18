@@ -210,7 +210,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">Reviews</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">God Reviewer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">585pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">586pt</text>
           
     <style>
     @keyframes ReviewsRankAnimation {
@@ -328,7 +328,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 19.36px;
+        width: 18.560000000000002px;
       }
     }
     #Commits-rank-progress{
@@ -430,7 +430,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">Issues</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">Deep Issuer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">620pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">621pt</text>
           
     <style>
     @keyframes IssuesRankAnimation {
@@ -438,7 +438,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 19.2px;
+        width: 19.36px;
       }
     }
     #Issues-rank-progress{
@@ -540,7 +540,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#e5c07b">PullRequest</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#e06c75">Deep Puller</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">753pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#e06c75">754pt</text>
           
     <style>
     @keyframes PullRequestRankAnimation {
@@ -548,7 +548,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 40.480000000000004px;
+        width: 40.64px;
       }
     }
     #PullRequest-rank-progress{
