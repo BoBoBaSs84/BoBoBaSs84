@@ -134,13 +134,13 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 70.794%;
+  width: 70.776%;
 " class="progress-item"></span><span style="
   background-color: #178600; 
-  width: 25.831%;
+  width: 25.850%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 1.298%;
+  width: 1.297%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.781%;
@@ -197,7 +197,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TSQL</span>
-  <span class="percent">70.79%</span>
+  <span class="percent">70.78%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -213,7 +213,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C#</span>
-  <span class="percent">25.83%</span>
+  <span class="percent">25.85%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
