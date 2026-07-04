@@ -63,6 +63,7 @@ You can click the Preview link to take a look at your changes.
 [![MicrosoftSQLServer2016](https://img.shields.io/badge/SQL_Server-2016-blue)](#)
 [![MicrosoftSQLServer2019](https://img.shields.io/badge/SQL_Server-2019-blue)](#)
 [![MicrosoftSQLServer2022](https://img.shields.io/badge/SQL_Server-2022-blue)](#)
+[![MicrosoftSQLServer2025](https://img.shields.io/badge/SQL_Server-2025-blue)](#)
 [![Midi](https://img.shields.io/badge/Midi-000000?logo=Midi&logoColor=white)](#)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white)](#)
 [![NginxProxyManager](https://img.shields.io/badge/NPM-F15833?logo=nginxproxymanager&logoColor=white)](#)
