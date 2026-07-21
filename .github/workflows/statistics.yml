@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: generated
-          repository: BoBoBaSs84/github-stats
+          repository: BoBoBaSs84/BB84.GitHub.Statistics
           token: ${{ secrets.REPOSITORIES_TOKEN }}
           path: .private-repo
 
