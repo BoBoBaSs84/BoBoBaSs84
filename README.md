@@ -99,21 +99,10 @@ You can click the Preview link to take a look at your changes.
 [![XML](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=white)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white)](#)
 
-## 📊 Statistics:
+## 📊 Statistics & 💬 Languages:
 
 [![BoBoBaSs84's Statistics](./images/overview.svg#gh-dark-mode-only)](https://github.com/BoBoBaSs84/BoBoBaSs84)
-
-<!-- [![BoBoBaSs84's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoBoBaSs84&show_icons=true&theme=transparent&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/BoBoBaSs84/BoBoBaSs84) -->
-
-## 💬 Languages:
-
 [![BoBoBaSs84's Languages](./images/languages.svg#gh-dark-mode-only)](https://github.com/BoBoBaSs84/BoBoBaSs84)
-
-<!-- [![BoBoBaSs84's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoBaSs84&langs_count=8&theme=transparent)](https://github.com/BoBoBaSs84/BoBoBaSs84) -->
-
-## 🏃‍♂️ Streak:
-
-[![GitHub Streak](./images/streak.svg)](https://github.com/BoBoBaSs84/BoBoBaSs84)
 
 ## 🏆 Trophys
 
