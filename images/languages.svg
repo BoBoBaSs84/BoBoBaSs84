@@ -153,16 +153,16 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 43.1 MB · ~1.4M lines</div>
+<div class="summary">15 languages · 43.2 MB · ~1.4M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 55.991%;
+  width: 55.987%;
 " class="progress-item"></span><span style="
   background-color: #178600; 
-  width: 41.199%;
+  width: 41.203%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 1.019%;
@@ -423,7 +423,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">11.</span>
   <span class="lang">JavaScript</span>
-  <span class="percent">0.06%</span>
+  <span class="percent">0.05%</span>
   <span class="size">24.3 KB</span>
   <span class="lines">~754 lines</span>
   <span class="repos">1 repo</span>
