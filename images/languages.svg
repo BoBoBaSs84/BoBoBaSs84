@@ -159,7 +159,7 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 55.659%;
+  width: 55.660%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
   width: 41.381%;
@@ -465,7 +465,7 @@ div.ellipsis {
   <span class="lang">Dockerfile</span>
   <span class="percent">0.02%</span>
   <span class="size">9.2 KB</span>
-  <span class="lines">~362 lines</span>
+  <span class="lines">~363 lines</span>
   <span class="repos">3 repos</span>
 </li>
 <li style="animation-delay: 2100ms;">
