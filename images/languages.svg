@@ -153,22 +153,22 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 43.4 MB · ~1.4M lines</div>
+<div class="summary">15 languages · 43.5 MB · ~1.4M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 55.660%;
+  width: 55.561%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 41.381%;
+  width: 41.448%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 1.013%;
+  width: 1.011%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.701%;
+  width: 0.704%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 0.426%;
@@ -176,11 +176,11 @@ div.ellipsis {
   background-color: #89e051; 
   width: 0.181%;
 " class="progress-item"></span><span style="
-  background-color: #ec915c; 
-  width: 0.140%;
-" class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.137%;
+  width: 0.170%;
+" class="progress-item"></span><span style="
+  background-color: #ec915c; 
+  width: 0.139%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
   width: 0.133%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">55.66%</span>
+  <span class="percent">55.56%</span>
   <span class="size">24.2 MB</span>
   <span class="lines">~723k lines</span>
   <span class="repos">2 repos</span>
@@ -243,9 +243,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">41.38%</span>
+  <span class="percent">41.45%</span>
   <span class="size">18 MB</span>
-  <span class="lines">~607k lines</span>
+  <span class="lines">~609k lines</span>
   <span class="repos">37 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
@@ -284,7 +284,7 @@ div.ellipsis {
   <span class="rank">4.</span>
   <span class="lang">HTML</span>
   <span class="percent">0.70%</span>
-  <span class="size">311.4 KB</span>
+  <span class="size">313.5 KB</span>
   <span class="lines">~7.6k lines</span>
   <span class="repos">4 repos</span>
 </li>
@@ -332,26 +332,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #ec915c;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="rank">7.</span>
-  <span class="lang">Zig</span>
-  <span class="percent">0.14%</span>
-  <span class="size">62 KB</span>
-  <span class="lines">~2.0k lines</span>
-  <span class="repos">1 repo</span>
-</li>
-<li style="animation-delay: 1200ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #f1e05a;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -361,11 +341,31 @@ div.ellipsis {
       fill-rule="evenodd" 
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
-  <span class="rank">8.</span>
+  <span class="rank">7.</span>
   <span class="lang">JavaScript</span>
+  <span class="percent">0.17%</span>
+  <span class="size">75.6 KB</span>
+  <span class="lines">~2.3k lines</span>
+  <span class="repos">1 repo</span>
+</li>
+<li style="animation-delay: 1200ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #ec915c;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="rank">8.</span>
+  <span class="lang">Zig</span>
   <span class="percent">0.14%</span>
-  <span class="size">61.1 KB</span>
-  <span class="lines">~1.9k lines</span>
+  <span class="size">62 KB</span>
+  <span class="lines">~2.0k lines</span>
   <span class="repos">1 repo</span>
 </li>
 <li style="animation-delay: 1350ms;">
