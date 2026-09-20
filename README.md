@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## 👨‍💻 Me:
 
 - 🔭 I’m currently working on so many things.
-- 🌱 I’m currently learning assembler.
+- 🌱 I’m currently learning .. to be a even more creative bass player.
 - 🤝🏼 I’m looking to collaborate on various projects and learn everyday.
 - 💬 Ask me about `sql` or `csharp`.
 - ⚡ Fact: I'm quite a bass player and i love to play.
