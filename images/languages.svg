@@ -153,40 +153,40 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 43.9 MB · ~1.4M lines</div>
+<div class="summary">15 languages · 44.1 MB · ~1.4M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 55.019%;
+  width: 54.787%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 42.019%;
+  width: 42.263%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 1.002%;
+  width: 0.997%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.697%;
+  width: 0.694%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.422%;
+  width: 0.420%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.179%;
+  width: 0.178%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.168%;
+  width: 0.167%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.138%;
+  width: 0.137%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 0.132%;
+  width: 0.131%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 0.100%;
+  width: 0.099%;
 " class="progress-item"></span><span style="
   background-color: #0096D8; 
   width: 0.076%;
@@ -195,7 +195,7 @@ div.ellipsis {
   width: 0.024%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.021%;
+  width: 0.020%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
   width: 0.004%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">55.02%</span>
+  <span class="percent">54.79%</span>
   <span class="size">24.2 MB</span>
   <span class="lines">~723k lines</span>
   <span class="repos">2 repos</span>
@@ -243,9 +243,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">42.02%</span>
-  <span class="size">18.5 MB</span>
-  <span class="lines">~624k lines</span>
+  <span class="percent">42.26%</span>
+  <span class="size">18.6 MB</span>
+  <span class="lines">~630k lines</span>
   <span class="repos">38 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
@@ -283,7 +283,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">4.</span>
   <span class="lang">HTML</span>
-  <span class="percent">0.70%</span>
+  <span class="percent">0.69%</span>
   <span class="size">313.5 KB</span>
   <span class="lines">~7.6k lines</span>
   <span class="repos">4 repos</span>
