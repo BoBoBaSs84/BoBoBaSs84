@@ -153,25 +153,25 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 44.1 MB · ~1.4M lines</div>
+<div class="summary">15 languages · 44.2 MB · ~1.4M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 54.787%;
+  width: 54.700%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 42.263%;
+  width: 42.355%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 0.997%;
+  width: 0.996%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.694%;
+  width: 0.693%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.420%;
+  width: 0.419%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.178%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">54.79%</span>
+  <span class="percent">54.70%</span>
   <span class="size">24.2 MB</span>
   <span class="lines">~723k lines</span>
   <span class="repos">2 repos</span>
@@ -243,9 +243,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">42.26%</span>
-  <span class="size">18.6 MB</span>
-  <span class="lines">~630k lines</span>
+  <span class="percent">42.35%</span>
+  <span class="size">18.7 MB</span>
+  <span class="lines">~632k lines</span>
   <span class="repos">38 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
