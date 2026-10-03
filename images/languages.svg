@@ -153,28 +153,28 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 44.4 MB · ~1.4M lines</div>
+<div class="summary">15 languages · 44.6 MB · ~1.4M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 54.390%;
+  width: 54.225%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 42.682%;
+  width: 42.856%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 0.990%;
+  width: 0.987%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.689%;
+  width: 0.687%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.417%;
+  width: 0.415%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.177%;
+  width: 0.176%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.166%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">54.39%</span>
+  <span class="percent">54.22%</span>
   <span class="size">24.2 MB</span>
   <span class="lines">~723k lines</span>
   <span class="repos">2 repos</span>
@@ -243,9 +243,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">42.68%</span>
-  <span class="size">19 MB</span>
-  <span class="lines">~641k lines</span>
+  <span class="percent">42.86%</span>
+  <span class="size">19.1 MB</span>
+  <span class="lines">~645k lines</span>
   <span class="repos">38 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
@@ -423,7 +423,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">11.</span>
   <span class="lang">Processing</span>
-  <span class="percent">0.08%</span>
+  <span class="percent">0.07%</span>
   <span class="size">34.1 KB</span>
   <span class="lines">~1.1k lines</span>
   <span class="repos">1 repo</span>
