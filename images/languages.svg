@@ -153,37 +153,37 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 44.6 MB · ~1.4M lines</div>
+<div class="summary">15 languages · 44.7 MB · ~1.4M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 54.225%;
+  width: 54.054%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 42.856%;
+  width: 43.036%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 0.987%;
+  width: 0.984%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.687%;
+  width: 0.685%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.415%;
+  width: 0.414%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.176%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.166%;
+  width: 0.165%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.136%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 0.130%;
+  width: 0.129%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.098%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">54.22%</span>
+  <span class="percent">54.05%</span>
   <span class="size">24.2 MB</span>
   <span class="lines">~723k lines</span>
   <span class="repos">2 repos</span>
@@ -243,9 +243,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">42.86%</span>
-  <span class="size">19.1 MB</span>
-  <span class="lines">~645k lines</span>
+  <span class="percent">43.04%</span>
+  <span class="size">19.2 MB</span>
+  <span class="lines">~650k lines</span>
   <span class="repos">38 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
@@ -263,7 +263,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">3.</span>
   <span class="lang">PLpgSQL</span>
-  <span class="percent">0.99%</span>
+  <span class="percent">0.98%</span>
   <span class="size">450.3 KB</span>
   <span class="lines">~13k lines</span>
   <span class="repos">1 repo</span>
@@ -283,7 +283,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">4.</span>
   <span class="lang">HTML</span>
-  <span class="percent">0.69%</span>
+  <span class="percent">0.68%</span>
   <span class="size">313.5 KB</span>
   <span class="lines">~7.6k lines</span>
   <span class="repos">4 repos</span>
@@ -303,7 +303,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">5.</span>
   <span class="lang">C++</span>
-  <span class="percent">0.42%</span>
+  <span class="percent">0.41%</span>
   <span class="size">189.6 KB</span>
   <span class="lines">~6.3k lines</span>
   <span class="repos">2 repos</span>
