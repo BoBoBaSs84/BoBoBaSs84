@@ -159,10 +159,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 58.885%;
+  width: 58.858%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 38.404%;
+  width: 38.401%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 0.993%;
@@ -179,11 +179,11 @@ div.ellipsis {
   background-color: #f1e05a; 
   width: 0.147%;
 " class="progress-item"></span><span style="
+  background-color: #012456; 
+  width: 0.146%;
+" class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.121%;
-" class="progress-item"></span><span style="
-  background-color: #012456; 
-  width: 0.115%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.087%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">58.88%</span>
+  <span class="percent">58.86%</span>
   <span class="size">29.5 MB</span>
   <span class="lines">~884k lines</span>
   <span class="repos">2 repos</span>
@@ -244,7 +244,7 @@ div.ellipsis {
   <span class="rank">2.</span>
   <span class="lang">C#</span>
   <span class="percent">38.40%</span>
-  <span class="size">19.2 MB</span>
+  <span class="size">19.3 MB</span>
   <span class="lines">~651k lines</span>
   <span class="repos">38 repos</span>
 </li>
@@ -352,26 +352,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #ec915c;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="rank">8.</span>
-  <span class="lang">Zig</span>
-  <span class="percent">0.12%</span>
-  <span class="size">62 KB</span>
-  <span class="lines">~2.0k lines</span>
-  <span class="repos">1 repo</span>
-</li>
-<li style="animation-delay: 1350ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #012456;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -381,12 +361,32 @@ div.ellipsis {
       fill-rule="evenodd" 
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
-  <span class="rank">9.</span>
+  <span class="rank">8.</span>
   <span class="lang">PowerShell</span>
-  <span class="percent">0.12%</span>
-  <span class="size">59.2 KB</span>
-  <span class="lines">~2.3k lines</span>
+  <span class="percent">0.15%</span>
+  <span class="size">75 KB</span>
+  <span class="lines">~3.0k lines</span>
   <span class="repos">8 repos</span>
+</li>
+<li style="animation-delay: 1350ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #ec915c;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="rank">9.</span>
+  <span class="lang">Zig</span>
+  <span class="percent">0.12%</span>
+  <span class="size">62 KB</span>
+  <span class="lines">~2.0k lines</span>
+  <span class="repos">1 repo</span>
 </li>
 <li style="animation-delay: 1500ms;">
   <svg 
