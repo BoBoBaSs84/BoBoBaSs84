@@ -153,34 +153,34 @@ div.ellipsis {
 
 <h2>Languages Used (By File Size)</h2>
 
-<div class="summary">15 languages · 50.1 MB · ~1.6M lines</div>
+<div class="summary">15 languages · 50.2 MB · ~1.6M lines</div>
 
 <div>
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 58.858%;
+  width: 58.830%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 38.401%;
+  width: 38.383%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 0.993%;
+  width: 0.992%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.611%;
+  width: 0.610%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 0.369%;
 " class="progress-item"></span><span style="
+  background-color: #012456; 
+  width: 0.194%;
+" class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.157%;
+  width: 0.156%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.147%;
-" class="progress-item"></span><span style="
-  background-color: #012456; 
-  width: 0.146%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.121%;
@@ -189,7 +189,7 @@ div.ellipsis {
   width: 0.087%;
 " class="progress-item"></span><span style="
   background-color: #0096D8; 
-  width: 0.067%;
+  width: 0.066%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.021%;
@@ -223,7 +223,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">58.86%</span>
+  <span class="percent">58.83%</span>
   <span class="size">29.5 MB</span>
   <span class="lines">~884k lines</span>
   <span class="repos">2 repos</span>
@@ -243,7 +243,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">38.40%</span>
+  <span class="percent">38.38%</span>
   <span class="size">19.3 MB</span>
   <span class="lines">~651k lines</span>
   <span class="repos">38 repos</span>
@@ -312,7 +312,7 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #89e051;" 
+      style="fill: #012456;" 
       viewBox="0 0 16 16" 
       version="1.1" 
       width="16" 
@@ -322,13 +322,33 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="rank">6.</span>
+  <span class="lang">PowerShell</span>
+  <span class="percent">0.19%</span>
+  <span class="size">99.9 KB</span>
+  <span class="lines">~3.9k lines</span>
+  <span class="repos">8 repos</span>
+</li>
+<li style="animation-delay: 1050ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #89e051;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="rank">7.</span>
   <span class="lang">Shell</span>
   <span class="percent">0.16%</span>
   <span class="size">80.4 KB</span>
   <span class="lines">~3.2k lines</span>
   <span class="repos">3 repos</span>
 </li>
-<li style="animation-delay: 1050ms;">
+<li style="animation-delay: 1200ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -341,32 +361,12 @@ div.ellipsis {
       fill-rule="evenodd" 
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
-  <span class="rank">7.</span>
+  <span class="rank">8.</span>
   <span class="lang">JavaScript</span>
   <span class="percent">0.15%</span>
   <span class="size">75.6 KB</span>
   <span class="lines">~2.3k lines</span>
   <span class="repos">1 repo</span>
-</li>
-<li style="animation-delay: 1200ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #012456;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="rank">8.</span>
-  <span class="lang">PowerShell</span>
-  <span class="percent">0.15%</span>
-  <span class="size">75 KB</span>
-  <span class="lines">~3.0k lines</span>
-  <span class="repos">8 repos</span>
 </li>
 <li style="animation-delay: 1350ms;">
   <svg 
