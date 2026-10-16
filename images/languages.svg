@@ -159,10 +159,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 58.783%;
+  width: 58.782%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 38.352%;
+  width: 38.351%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 0.992%;
@@ -174,7 +174,7 @@ div.ellipsis {
   width: 0.369%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 0.273%;
+  width: 0.276%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.156%;
@@ -323,9 +323,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">6.</span>
   <span class="lang">PowerShell</span>
-  <span class="percent">0.27%</span>
-  <span class="size">140.3 KB</span>
-  <span class="lines">~5.5k lines</span>
+  <span class="percent">0.28%</span>
+  <span class="size">141.7 KB</span>
+  <span class="lines">~5.6k lines</span>
   <span class="repos">8 repos</span>
 </li>
 <li style="animation-delay: 1050ms;">
