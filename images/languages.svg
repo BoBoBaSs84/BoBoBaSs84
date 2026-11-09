@@ -159,10 +159,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 56.693%;
+  width: 56.682%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 40.363%;
+  width: 40.375%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 0.956%;
@@ -229,7 +229,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">56.69%</span>
+  <span class="percent">56.68%</span>
   <span class="size">29.5 MB</span>
   <span class="lines">~884k lines</span>
   <span class="repos">2 repos</span>
@@ -249,9 +249,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">40.36%</span>
+  <span class="percent">40.37%</span>
   <span class="size">21 MB</span>
-  <span class="lines">~710k lines</span>
+  <span class="lines">~711k lines</span>
   <span class="repos">40 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
