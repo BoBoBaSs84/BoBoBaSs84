@@ -159,10 +159,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 56.120%;
+  width: 56.116%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 40.964%;
+  width: 40.968%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
   width: 0.947%;
@@ -249,7 +249,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">40.96%</span>
+  <span class="percent">40.97%</span>
   <span class="size">21.5 MB</span>
   <span class="lines">~728k lines</span>
   <span class="repos">41 repos</span>
