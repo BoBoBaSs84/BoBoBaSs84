@@ -159,16 +159,16 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #e38c00; 
-  width: 56.116%;
+  width: 56.065%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 40.968%;
+  width: 41.014%;
 " class="progress-item"></span><span style="
   background-color: #336790; 
-  width: 0.947%;
+  width: 0.946%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.587%;
+  width: 0.586%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.582%;
@@ -180,7 +180,7 @@ div.ellipsis {
   width: 0.140%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 0.119%;
+  width: 0.125%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
   width: 0.115%;
@@ -229,7 +229,7 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">1.</span>
   <span class="lang">TSQL</span>
-  <span class="percent">56.12%</span>
+  <span class="percent">56.07%</span>
   <span class="size">29.5 MB</span>
   <span class="lines">~884k lines</span>
   <span class="repos">3 repos</span>
@@ -249,9 +249,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">2.</span>
   <span class="lang">C#</span>
-  <span class="percent">40.97%</span>
-  <span class="size">21.5 MB</span>
-  <span class="lines">~728k lines</span>
+  <span class="percent">41.01%</span>
+  <span class="size">21.6 MB</span>
+  <span class="lines">~730k lines</span>
   <span class="repos">41 repos</span>
 </li>
 <li style="animation-delay: 450ms;">
@@ -369,9 +369,9 @@ div.ellipsis {
   ></path></svg>
   <span class="rank">8.</span>
   <span class="lang">PowerShell</span>
-  <span class="percent">0.12%</span>
-  <span class="size">63.9 KB</span>
-  <span class="lines">~2.5k lines</span>
+  <span class="percent">0.13%</span>
+  <span class="size">67.6 KB</span>
+  <span class="lines">~2.7k lines</span>
   <span class="repos">9 repos</span>
 </li>
 <li style="animation-delay: 1350ms;">
